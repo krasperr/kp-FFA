@@ -1,0 +1,4 @@
+name: kp-FFA
+version: '${project.version}'
+main: net.krasper.kpffa.FFA
+api-version: '1.20'

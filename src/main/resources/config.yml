@@ -1,0 +1,34 @@
+# Made by krasper
+
+spawn:
+  x: 0
+  y: 0
+  z: 0
+  world: 'world'
+  yaw: 0
+  pitch: 0
+
+ffa:
+
+  kits:
+    swordFFA:
+      worlds:
+        - 'swordffa'
+    diapotFFA:
+      worlds:
+        - 'diapotffa'
+    nethpotFFA:
+      worlds:
+        - 'nethpotffa'
+    axeFFA:
+      worlds:
+        - 'axeffa'
+
+  FFAs:
+    center:
+      x: 0
+      y: 0
+      z: 0
+      world: 'world'
+      yaw: 0
+      pitch: 0
